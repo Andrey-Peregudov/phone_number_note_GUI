@@ -117,7 +117,7 @@ QPushButton:hover {
      <string>Номер телефона</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textFirstname">
+   <widget class="QLineEdit" name="textFirstname">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -132,7 +132,7 @@ QPushButton:hover {
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textLastName">
+   <widget class="QLineEdit" name="textLastname">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -147,7 +147,7 @@ QPushButton:hover {
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textNumber">
+   <widget class="QLineEdit" name="textNumber">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -169,7 +169,7 @@ QPushButton:hover {
      <x>0</x>
      <y>0</y>
      <width>961</width>
-     <height>21</height>
+     <height>33</height>
     </rect>
    </property>
   </widget>
